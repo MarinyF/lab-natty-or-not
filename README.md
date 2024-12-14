@@ -1,51 +1,42 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Imagem para utilizar em rede social para marketing de volta as aulas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Produzir imagem para fazer propaganda de volta as aulas para uma confecção de uniformes escolares.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Meta AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Comecei dando aos comandos simples para a criação da imagem, como exemplo, "Haja como um profissional de marketing digital, e, crie uma imagem de volta as aulas para uma confecção que fabrica uniformes escolares. A ideia é trazer 3 alunos uniformizados chegando na escola animados.". Porém a imagem gerada não foi como desejado, e, fui dando mais detalhes para a criação, como:
+
+Crie uma imagem de marketing para uma propaganda de volta as aulas 2025:
+
+Detalhes do Uniforme
+1. Cor da bermuda: Azul marinho
+2. Cor da camiseta: Branca
+3. Estampa na camiseta: logotipo da escola. O nome da escola é "Caminho".
+4. Tipo de estampa: Texto, imagem ou combinação
+
+Cenário
+1. Fundo: "Escola que possua estrutura arquitetônica antiga"
+2. Ambiente: entrada da escola
+3. Iluminação: Natural
+
+Alunos
+1. Idade aproximada: 7-10 anos
+2. Posições: Caminhando, sorrindo, interagindo
+3. Acessórios: Mochilas, livros ou tablets
+
+Estilo
+1. Fotografia realista
+2. Corresponder ao público-alvo de uma confecção de uniformes
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![image](https://github.com/user-attachments/assets/5eb9f177-6b99-48a8-94b0-a5c93b81593e)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Foi muito interessante solicitar uma imagem, dar feedback para a AI e entender que com maior detalhes de informações, melhor a imagem gerada.
